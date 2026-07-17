@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Builds and logs
+dist/
+build/
+out/
+.env
+*.log
+
+# IDE settings (to avoid uploading your local VS Code configuration)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
