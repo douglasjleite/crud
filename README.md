@@ -1,24 +1,24 @@
-# CRUD de Categorias e Produtos (TypeScript)
+# Category and Product CRUD (TypeScript)
 
-Este projeto é um laboratório de lógica de backend desenvolvido para praticar conceitos fundamentais de programação, arquitetura de sistemas e TypeScript.
+This project is a backend logic laboratory developed to practice fundamental programming concepts, system architecture, and TypeScript.
 
-## Funcionalidades
-- **Gestão de Categorias:** Criação, atualização, deleção e listagem.
-- **Gestão de Produtos:** Organização de produtos vinculados a categorias.
-- **Integridade de Dados:** Validação de segurança para impedir a deleção de categorias que ainda possuem produtos ativos.
-- **Tratamento de Erros:** Implementação de erros customizados (`DomainError`) para regras de negócio específicas.
-- **Arquitetura:** Aplicação de injeção de dependência e separação de preocupações (Services/Models).
+## Features
+- **Category Management:** Creation, update, deletion, and listing.
+- **Product Management:** Organization of products linked to specific categories.
+- **Data Integrity:** Security validation to prevent the deletion of categories that still have active products.
+- **Error Handling:** Implementation of custom errors (`DomainError`) for specific business rules.
+- **Architecture:** Application of dependency injection and separation of concerns (Services/Models).
 
-## Tecnologias
+## Technologies
 - TypeScript
 - Node.js
 - Git & GitHub
 
-## O que aprendi?
-Este projeto foi fundamental para entender:
-- Como estruturar um sistema mantendo a consistência dos dados.
-- A importância de separar a lógica de negócio do código de interface.
-- Como profissionalizar o tratamento de falhas em uma aplicação.
+## What I Learned
+This project was essential for understanding:
+- How to structure a system while maintaining data consistency.
+- The importance of separating business logic from interface code.
+- How to professionalize error handling in an application.
 
 ---
-*Projeto desenvolvido por douglasjleite.*
+*Project developed by douglasjleite.*
